@@ -21,13 +21,13 @@ GitHub 技术社区 Doocs 旗下唯一公众号“Doocs 开源社区”，欢迎
     <tr>
       <td align="center" style="width: 200px;">
         <a href="https://github.com/doocs">
-          <img src="./images/qrcode-for-doocs.jpg" style="width: 400px;"><br>
+          <img src=".images/qrcode-for-doocs.jpg" style="width: 400px;"><br>
           <sub>公众平台</sub>
         </a><br>
       </td>
       <td align="center" style="width: 200px;">
         <a href="https://github.com/yanglbme">
-          <img src="./images/qrcode-for-yanglbme.jpg" style="width: 400px;"><br>
+          <img src=".images/qrcode-for-yanglbme.jpg" style="width: 400px;"><br>
           <sub>个人微信</sub>
         </a><br>
       </td>
