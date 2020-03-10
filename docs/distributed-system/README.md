@@ -1,10 +1,10 @@
 # 分布式系统
 ## [面试连环炮](/docs/distributed-system/distributed-system-interview.md)
 ## 系统拆分
-- [为什么要进行系统拆分？如何进行系统拆分？拆分后不用 Dubbo 可以吗？](/docs/distributed-system/why-dubbo.md)
+- [为什么要进行系统拆分？如何进行系统拆分？拆分后不用 Dubbo 可以吗？](/docs/distributed-system/32、why-dubbo.md)
 
 ## 分布式服务框架
-- [说一下 Dubbo 的工作原理？注册中心挂了可以继续通信吗？](/docs/distributed-system/dubbo-operating-principle.md)
+- [说一下 Dubbo 的工作原理？注册中心挂了可以继续通信吗？](/docs/distributed-system/33、dubbo-operating-principle.md)
 - [Dubbo 支持哪些序列化协议？说一下 Hessian 的数据结构？PB 知道吗？为什么 PB 的效率是最高的？](/docs/distributed-system/dubbo-serialization-protocol.md)
 - [Dubbo 负载均衡策略和集群容错策略都有哪些？动态代理策略呢？](/docs/distributed-system/35、dubbo-load-balancing.md)
 - [Dubbo 的 spi 思想是什么？](/docs/distributed-system/36、dubbo-spi.md)

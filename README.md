@@ -45,7 +45,7 @@
 - [了解什么是 redis 的雪崩、穿透和击穿？Redis 崩溃之后会怎么样？系统该如何应对这种情况？如何处理 Redis 的穿透？](./docs/high-concurrency/redis-caching-avalanche-and-caching-penetration.md)
 - [如何保证缓存与数据库的双写一致性？](./docs/high-concurrency/redis-consistence.md)
 - [Redis 的并发竞争问题是什么？如何解决这个问题？了解 Redis 事务的 CAS 方案吗？](./docs/high-concurrency/redis-cas.md)
-- [生产环境中的 Redis 是怎么部署的？](./docs/high-concurrency/redis-production-environment.md)
+- [生产环境中的 Redis 是怎么部署的？](docs/high-concurrency/29redis-production-environment.md)
 
 ### 分库分表
 - [为什么要分库分表（设计高并发系统的时候，数据库层面该如何设计）？用过哪些分库分表中间件？不同的分库分表中间件都有什么优点和缺点？你们具体是如何对数据库如何进行垂直拆分或水平拆分的？](./docs/high-concurrency/database-shard.md)
@@ -62,10 +62,10 @@
 ## 分布式系统
 ### [面试连环炮](./docs/distributed-system/distributed-system-interview.md)
 ### 系统拆分
-- [为什么要进行系统拆分？如何进行系统拆分？拆分后不用 Dubbo 可以吗？](./docs/distributed-system/why-dubbo.md)
+- [为什么要进行系统拆分？如何进行系统拆分？拆分后不用 Dubbo 可以吗？](docs/distributed-system/32、why-dubbo.md)
 
 ### 分布式服务框架
-- [说一下 Dubbo 的工作原理？注册中心挂了可以继续通信吗？](./docs/distributed-system/dubbo-operating-principle.md)
+- [说一下 Dubbo 的工作原理？注册中心挂了可以继续通信吗？](docs/distributed-system/33、dubbo-operating-principle.md)
 - [Dubbo 支持哪些序列化协议？说一下 Hessian 的数据结构？PB 知道吗？为什么 PB 的效率是最高的？](./docs/distributed-system/dubbo-serialization-protocol.md)
 - [Dubbo 负载均衡策略和集群容错策略都有哪些？动态代理策略呢？](docs/distributed-system/35、dubbo-load-balancing.md)
 - [Dubbo 的 spi 思想是什么？](docs/distributed-system/36、dubbo-spi.md)
